@@ -1,2 +1,2 @@
 # ChatModel
-chatmodel performance test and prompt optimization.
+chatmodel performance test, prompt optimization, business solution and other experience.
